@@ -20,5 +20,4 @@
     };
 };
 
-//
 // Touch input - direct CST816S handling for raw coordinate debugging
